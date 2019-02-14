@@ -1,0 +1,22 @@
+{
+  "name": "notarickroll",
+  "version": "1.0.0",
+  "description": "Avoid getting rick rolled!",
+  "scripts": {
+    "deploy": "now && now alias"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasmigone/notarickroll.git"
+  },
+  "keywords": [
+    "rick",
+    "roll"
+  ],
+  "author": "Tomás Migone <tomas@p4d.com.ar> (http://www.programming4design.com.ar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomasmigone/notarickroll/issues"
+  },
+  "homepage": "https://github.com/tomasmigone/notarickroll#readme"
+}

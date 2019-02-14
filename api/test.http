@@ -1,0 +1,6 @@
+POST https://notarickroll.now.sh/api
+content-type: application/json
+
+{
+    "url": "https://bit.ly/19BiSHW"
+}
